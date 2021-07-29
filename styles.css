@@ -28,10 +28,6 @@ h2 {
 .banner {
   border: none;
   overflow: hidden;
-  max-width: 972px;
-  height: 270px;
-  background-repeat: no-repeat;
-  background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -101,10 +97,6 @@ h2 {
   #bkg {
     margin: 0;
     max-width: 100%;
-  }
-
-  .banner {
-    height: 150px;
   }
 
   .banner-img {
